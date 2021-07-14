@@ -31,7 +31,7 @@ github:
   username: gtrboy             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -78,7 +78,7 @@ img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
-avatar: /img/test.png
+avatar: /img/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
