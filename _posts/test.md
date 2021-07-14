@@ -6,4 +6,5 @@ tags: test
 ---
 
 ## test for test
-dddddddd
+![test](https://gtrboy.github.io/img/test.png)()
+
