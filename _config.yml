@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: gtrboy's blog                          # the main title
 
-tagline: 好好学习   # it will display as the sub-title
+tagline: 不想当厨子的球迷不是好黑客   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
